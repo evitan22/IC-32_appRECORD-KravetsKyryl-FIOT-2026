@@ -6,8 +6,7 @@
   "student": {
     "fullName": "Кравець Кирил Олегович",
     "group": "ІС-32",
-    "gender": "male",
-    "photo": "/stud"
+    "gender": "male"
   },
   "toc": {
     "minDepth": 2,
