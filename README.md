@@ -158,7 +158,7 @@ static/assets/labs/lab-1/
 Вставляти у Markdown:
 
 ```md
-![Скрін 1](/assets/labs/lab-1/screen-1.png)
+
 ```
 
 ---
