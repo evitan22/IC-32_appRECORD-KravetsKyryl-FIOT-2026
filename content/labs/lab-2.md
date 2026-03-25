@@ -19,7 +19,7 @@
 
 ### Пункт 1
 
-#### Моя БД
+#### Моя БД 
 
 ```
 const { Sequelize } = require('sequelize');
