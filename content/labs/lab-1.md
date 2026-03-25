@@ -22,7 +22,7 @@
 
 ### Backend-код
 
-```bash
+```
 const express = require("express");
 const cors = require("cors");
 
@@ -63,7 +63,7 @@ app.listen(3000, () => {
 
 ### Frontend-код
 
-```ts
+```
 fetch("http://localhost:3000/students", {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
@@ -111,10 +111,10 @@ try {
 
 ## Скріншоти
 
-![Скрін 1](/assets/labs/lab-1/img1.png)
+![Скрін](/assets/labs/lab-1/img1.png)
 
 ---
 
 ## Висновки
 
-Я ознайомився з принципами роботи HTTP-серверів, вивчив основи створення веб-серверів на Node.js, ознайомився з архітектурою REST API, навчився створювати маршрути (routes) для обробки HTTP-запитів
+В цій лабораторній робботі я ознайомився з принципами роботи HTTP-серверів, вивчив основи створення веб-серверів на Node.js, ознайомився з архітектурою REST API, навчився створювати маршрути (routes) для обробки HTTP-запитів
