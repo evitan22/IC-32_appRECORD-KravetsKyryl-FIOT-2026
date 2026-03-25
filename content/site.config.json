@@ -4,10 +4,10 @@
     "subjectLine": "з дисципліни «WEB-ОРІЄНТОВАНІ ТЕХНОЛОГІЇ. BACKEND РОЗРОБКИ»"
   },
   "student": {
-    "fullName": "Прізвище Ім’я По батькові",
-    "group": "Іx-xx",
+    "fullName": "Кравець Кирил Олегович",
+    "group": "ІС-32",
     "gender": "male",
-    "photo": "/students/chad.jpg"
+    "photo": "/stud"
   },
   "toc": {
     "minDepth": 2,
@@ -18,6 +18,11 @@
       "slug": "lab-1",
       "title": "Лабораторна робота №1",
       "button": "Лабораторна робота №1"
+    },
+    {
+      "slug": "lab-2",
+      "title": "Лабораторна робота №2",
+      "button": "Лабораторна робота №2"
     }
   ]
 }
